@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+scikit-learn
+statsmodels
+torch
+hopsworks
+langgraph
+langchain-groq
+shap
+streamlit
+plotly
+python-dotenv
